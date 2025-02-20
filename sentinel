@@ -11,6 +11,4 @@ This project demonstrates how to integrate an Azure Virtual Machine with Microso
 ## Usage
 Run the KQL query to monitor successful login events every 5 minutes and configure alerts based on your requirements.
 
-## Screenshots
-2025-02-20 14_23_26-.png
 
