@@ -1,0 +1,15 @@
+# Microsoft Sentinel Integration with Azure VM
+
+## Introduction
+This project demonstrates how to integrate an Azure Virtual Machine with Microsoft Sentinel. It includes steps for installing the Log Analytics Agent, configuring data collection, and setting up a Kusto Query Language (KQL) rule to monitor successful login events every 5 minutes.
+
+## Installation
+1. Install the Log Analytics Agent on your Azure VM.
+2. Configure the agent to collect the necessary data.
+3. Set up data connectors in Microsoft Sentinel.
+
+## Usage
+Run the KQL query to monitor successful login events every 5 minutes and configure alerts based on your requirements.
+
+## Screenshots
+
